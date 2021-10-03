@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Fleetwoodtest {
+public class Albumtest {
 
     @Test
     @DisplayName("Test for Fleetwood Mac album genre")
